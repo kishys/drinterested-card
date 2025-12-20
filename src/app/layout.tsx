@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Kishan S. | Dr. Interested',
-  description: 'Sleek interactive business card for Kishan S.',
+  description: 'Deputy Executive Director | Vice President at Dr. Interested',
   icons: {
     icon: '/DrInt-Logo.png',
     shortcut: '/DrInt-Logo.png',
