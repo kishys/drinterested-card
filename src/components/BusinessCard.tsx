@@ -106,7 +106,7 @@ export default function BusinessCard() {
               </svg>
             </Link>
             <Link
-              href="https://kishansuhi.vercel.app/"
+              href="https://kishansuhi.ca/"
               target="_blank"
               aria-label="Website"
               className="text-slate-600 hover:text-brand-teal transition-colors"
